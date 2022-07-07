@@ -25,6 +25,8 @@
 
 # Bot in action :)
 
+![](gifs/sudoku.gif)
+
 
 
 
